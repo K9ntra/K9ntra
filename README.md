@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/942476031649013840/1237046041690247278/text_5.gif?ex=66968167&is=66952fe7&hm=9d59c3d8c2a34c7c4d7af706b56ef3b482736c06b9174fc1d1cfbb33f0369828&" alt="GIF Spelling Out Maddy">
+  <img src="https://cdn.discordapp.com/attachments/942476031649013840/1237047616299204708/text_8.gif?ex=66f6179e&is=66f4c61e&hm=645425858717331686d7fa628c838d145133f7c6d88d732f9a4cb920776a8225&" alt="GIF Spelling Out Maddy">
   <img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
 </p>
 
