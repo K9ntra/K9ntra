@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/942476031649013840/1237047616299204708/text_8.gif?ex=66f6179e&is=66f4c61e&hm=645425858717331686d7fa628c838d145133f7c6d88d732f9a4cb920776a8225&" alt="GIF Spelling Out Maddy">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l4aGZmbm4xcHI3cTZqcTVocjBzMzk3Zno4cWdrMW85bTFmbWE1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kFiZnnikMIjRP1GXeT/200.gif"
+" alt="GIF Spelling Out Maddy">
   <img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
 </p>
 
@@ -16,4 +17,4 @@ struct { // About Me
 
 ### What I'm Vibing to:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r433qbp2wcvjvive683t226zj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=r433qbp2wcvjvive683t226zj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/r433qbp2wcvjvive683t226zj?si=LJwotfdZRd6bkPb2ZGcoNA)
