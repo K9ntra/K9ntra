@@ -1,15 +1,47 @@
-# A little about myself
-```c++
-struct { // About Me
-    string intro = "Hello, I'm K9ntra, just another script programmer for Roblox and other platforms.";
-    vector<string> common_langs = { "LUA", "PY" };
-    string interest = "I enjoy playing horror and exploration games online.";
-    string discord = "@K9ntra";
-} K9ntra;
-```
+<h1 align="center"> Hey there, I'm <a href="https://github.com/K9ntra">Kontra</a> 👋 </h1>
 
-### Discord  
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/platformdestroyer)
+<p align="center">
+  <a href="https://x.com/k9ntra">Twitter/X</a> - 
+  <a href="https://www.tiktok.com/@k9ntra">TikTok</a> - 
+  <a href="https://open.spotify.com/user/r433qbp2wcvjvive683t226zj">Spotify</a> - 
+  <a href="https://www.reddit.com/user/K9ntra/">Reddit</a>
+</p>
 
-### What I'm Vibing to:
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=r433qbp2wcvjvive683t226zj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/r433qbp2wcvjvive683t226zj?si=LJwotfdZRd6bkPb2ZGcoNA)
+---
+
+## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
+
+I'm a programming student who started out by modifying Lua scripts on Roblox. Eventually, I began creating libraries and moved on to develop one of my biggest projects: [Antora](https://scriptblox.com/script/Universal-Script-Antora-14151).
+
+Later on, I got into **Discord bot development**, starting with **Python**, and later moved to **JavaScript**. That naturally led me into the world of **HTML and CSS**, where I began creating websites and experimenting more with web technologies.
+
+---
+
+## 🧠 Tech Stack
+
+**Languages and Technologies I use:**
+
+<img src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
+
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/K9ntra">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=K9ntra&show_icons=true&theme=github_dark" alt="Kontra's GitHub stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9ntra&layout=compact&theme=github_dark" />
+</a>
+
+---
+
+## 🫂 Want to reach me? Join my Discord community.
+
+<div align="center" style="text-align:center;">
+  <a href="https://discord.gg/platformdestroyer">
+    <img src="https://invidget.switchblade.xyz/platformdestroyer" alt="Join our Discord" />
+  </a>
+</div>
