@@ -29,12 +29,12 @@ Later on, I got into **Discord bot development**, starting with **Python**, and 
 
 ---
 
-## 📊 GitHub Stats
 
-<a href="https://github.com/K9ntra">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=K9ntra&show_icons=true&theme=github_dark" alt="Kontra's GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9ntra&layout=compact&theme=github_dark" />
-</a>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/sanjay-kv">
+   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<br>
 
 ---
 
