@@ -46,7 +46,7 @@ Later on, I got into **Discord bot development**, starting with **Python**, and 
 ## 🫂 Want to reach me? Join my Discord community.
 
 <div align="center" style="text-align:center;">
-  <a href="https://discord.gg/platformdestroyer">
-    <img src="https://invidget.switchblade.xyz/platformdestroyer" alt="Join our Discord" />
+  <a href="https://discord.gg/sbsl">
+    <img src="https://invidget.switchblade.xyz/sbsl" alt="Join our Discord" />
   </a>
 </div>
