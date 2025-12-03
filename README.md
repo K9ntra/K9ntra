@@ -38,15 +38,3 @@ Later on, I got into **Discord bot development**, starting with **Python**, and 
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=K9ntra&show_icons=true&theme=radical" alt="K9ntra's GitHub stats" />
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9ntra&layout=compact&theme=radical" alt="K9ntra's top languages" />
 </a>
-
----
-
----
-
-## 🫂 Want to reach me? Join my Discord community.
-
-<div align="center" style="text-align:center;">
-  <a href="https://discord.gg/redrose">
-    <img src="https://invidget.switchblade.xyz/redrose" alt="Join our Discord" />
-  </a>
-</div>
