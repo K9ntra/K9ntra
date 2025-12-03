@@ -28,13 +28,3 @@ Later on, I got into **Discord bot development**, starting with **Python**, and 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
 
 ---
-
-
----
-
-## ⚙️ GitHub Profile
-
-<a href="https://github.com/K9ntra">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=K9ntra&show_icons=true&theme=radical" alt="K9ntra's GitHub stats" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9ntra&layout=compact&theme=radical" alt="K9ntra's top languages" />
-</a>
