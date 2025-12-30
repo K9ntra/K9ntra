@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
 
-I'm a programming student who started out by modifying Lua scripts on Roblox. Eventually, I began creating libraries and moved on to develop one of my biggest projects: [Antora](https://scriptblox.com/script/Universal-Script-Antora-14151).
+I'm a programming student who started out by modifying Lua scripts on Roblox.
 
 Later on, I got into **Discord bot development**, starting with **Python**, and later moved to **JavaScript**. That naturally led me into the world of **HTML and CSS**, where I began creating websites and experimenting more with web technologies.
 
